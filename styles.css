@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+/*  your css code hebre. If applicable */
+tr,th, td
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 200px;
+	border-radius: 10px;
+	font-size: x-large;
+	text-align: ;
+	padding: 1rem
+	
+}
+
+tr:nth-of-type(even){
+	background-color: lightgray;
+}
