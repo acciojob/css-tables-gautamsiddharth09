@@ -7,8 +7,8 @@ tr,th, td
 	border-radius: 10px;
 	font-size: x-large;
 	text-align: ;
-	padding: 0.5rem;
-	font-weight:
+	padding: 8px;
+	
     
 	
 	
@@ -20,12 +20,6 @@ tr:nth-of-type(even){
 
 th{
 	font-size: 30px;
-	font-weight: bolder;
-	padding: 10px;
 	
 
-}
-td{
-
-	font-weight: 
 }
